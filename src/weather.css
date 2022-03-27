@@ -104,10 +104,6 @@ main {
     align-items: center;
 }
 
-.weather-icon .icon {
-    /* filter: invert(1); */
-}
-
 .weather-icon .description {
     color: #FFF;
 }
